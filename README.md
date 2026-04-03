@@ -1,6 +1,6 @@
 # 🚀 AI Document Analyzer (RAG)
 
-📄 Analyze financial reports, resumes, research papers, and more using AI.
+📄 Analyze PDFs like resumes, financial reports, research papers and more using AI.
 
 ## 🌐 Live Demo
 https://huggingface.co/spaces/Sachin0301/financial-document-analyzer
@@ -10,6 +10,13 @@ https://huggingface.co/spaces/Sachin0301/financial-document-analyzer
 - Generate summaries
 - Ask questions about documents
 - Context-aware answers using RAG
+
+ ## 🧠 How it works
+- Upload PDF
+- Text is split into chunks
+- Embeddings created using HuggingFace
+- Stored in FAISS vector database
+- LLaMA 3 (Groq) generates answers using RAG
 
 ## 🛠 Tech Stack
 - Streamlit
@@ -22,4 +29,6 @@ https://huggingface.co/spaces/Sachin0301/financial-document-analyzer
 * Uses Retrieval-Augmented Generation (RAG)
 * Works on real-world documents
 * Fully deployed and interactive
+
+
 
