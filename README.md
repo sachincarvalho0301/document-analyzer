@@ -1,25 +1,21 @@
 # 🚀 AI Document Analyzer (RAG)
 
-Upload a PDF and get AI-powered financial insights instantly.
+📄 Analyze financial reports, resumes, research papers, and more using AI.
 
 ## 🌐 Live Demo
+https://huggingface.co/spaces/Sachin0301/financial-document-analyzer
 
-👉https://huggingface.co/spaces/Sachin0301/financial-document-analyzer
+## ⚡ Features
+- Extract insights from PDFs
+- Generate summaries
+- Ask questions about documents
+- Context-aware answers using RAG
 
-## 🧠 Features
-
-* Extract key insights from PDFs
-* Generate summaries
-* Ask questions based on document
-* Context-aware answers using RAG
-
-## ⚙️ Tech Stack
-
-* Streamlit
-* LangChain
-* FAISS
-* Groq (LLaMA 3)
-* HuggingFace Embeddings
+## 🛠 Tech Stack
+- Streamlit
+- LangChain
+- FAISS
+- Groq (LLaMA 3)
 
 ## 💡 Highlights
 
