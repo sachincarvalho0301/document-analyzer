@@ -4,7 +4,7 @@ Upload a PDF and get AI-powered financial insights instantly.
 
 ## 🌐 Live Demo
 
-👉 https://huggingface.co/spaces/Sachin0301/financial-document-analyzer
+👉https://huggingface.co/spaces/Sachin0301/financial-document-analyzer
 
 ## 🧠 Features
 
